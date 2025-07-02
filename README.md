@@ -1,3 +1,4 @@
+
 # 🚀 DEVTUBE
 
 > Empowering Creators, Elevating Engagement, Redefining Video
@@ -18,7 +19,7 @@
 - 👥 User authentication with Passport.js
 - 🌐 Clean and responsive UI with EJS templating
 
-Whether you're learning web development or showcasing skills, Devtube is a powerful starting point.
+
 
 ---
 
@@ -57,3 +58,57 @@ npm install
 
 # 4. Start the server
 npm start
+```
+
+---
+
+## 🌐 Live Demo
+
+> Coming Soon... 
+
+
+
+
+## 🚀 Features
+
+- 📺 Video playback with custom player
+- 🔐 Secure login and authentication using Passport.js
+- 🧠 Dynamic search suggestions
+- 🛰️ Real-time features using Socket.io
+- ☁️ MongoDB database for users and content
+- 🛡️ ENV config support
+
+---
+
+## 🛠 Future Improvements
+
+- User channels & subscriptions  
+- Video upload feature  
+- Commenting system  
+- Like/dislike with analytics  
+- Admin dashboard  
+
+---
+
+## 🤝 Contribution
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to fork and submit pull requests.
+
+```bash
+# Fork the repository
+# Create a new branch
+git checkout -b feature/amazing-feature
+
+# Make changes
+git commit -m "Add amazing feature"
+
+# Push to GitHub
+git push origin feature/amazing-feature
+```
+
+
+## 👤 Author
+
+**Prince Chauhan**  
+🌐 [GitHub - Prince112004](https://github.com/Prince112004)
