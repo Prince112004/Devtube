@@ -64,7 +64,7 @@ npm start
 
 ## 🌐 Live Demo
 
-> Coming Soon... 
+> (https://devtube-6zil.onrender.com)
 
 
 
@@ -78,7 +78,7 @@ npm start
 - ☁️ MongoDB database for users and content
 - 🛡️ ENV config support
 
----
+
 
 ## 🛠 Future Improvements
 
@@ -90,22 +90,7 @@ npm start
 
 ---
 
-## 🤝 Contribution
 
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork and submit pull requests.
-
-```bash
-# Fork the repository
-# Create a new branch
-git checkout -b feature/amazing-feature
-
-# Make changes
-git commit -m "Add amazing feature"
-
-# Push to GitHub
-git push origin feature/amazing-feature
-```
 
 
 ## 👤 Author
